@@ -1,0 +1,6 @@
+{
+  "name": "Against The Gravity",
+  "description": "An interactive digital exhibition and zero-gravity virtual memory space exploring distance, memories, and the pull of heartstrings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
